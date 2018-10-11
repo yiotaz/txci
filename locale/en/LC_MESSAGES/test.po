@@ -70,4 +70,4 @@ msgstr "Password"
 
 #: accounts/forms.py:114 accounts/forms.py:370
 msgid "This username is already taken."
-msgstr "This username is already taken."
+msgstr "This username is already taken"
